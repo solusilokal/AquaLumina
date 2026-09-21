@@ -60,15 +60,17 @@ const singleHtml = `<!doctype html>
     <!-- Open Graph / Facebook / WhatsApp -->
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="AquaLumina" />
+    <meta property="og:url" content="https://solusilokal.github.io/AquaLumina/" />
     <meta property="og:title" content="AquaLumina - Destinasi Rekreasi Air & Kolam Renang Palangka Raya" />
     <meta property="og:description" content="Destinasi rekreasi air terbaik untuk keluarga Anda. Nikmati kolam renang berstandar internasional, area bermain anak, dan air sebening kristal dengan teknologi filtrasi terkini." />
-    <meta property="og:image" content="./logo-aqualumina.png" />
+    <meta property="og:image" content="https://solusilokal.github.io/AquaLumina/logo-aqualumina.png" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://solusilokal.github.io/AquaLumina/" />
     <meta name="twitter:title" content="AquaLumina - Destinasi Rekreasi Air & Kolam Renang Palangka Raya" />
     <meta name="twitter:description" content="Destinasi rekreasi air terbaik untuk keluarga Anda. Nikmati kolam renang berstandar internasional, area bermain anak, dan air sebening kristal dengan teknologi filtrasi terkini." />
-    <meta name="twitter:image" content="./Gemini_Generated_Image_7mr36z7mr36z7mr3.jpg" />
+    <meta name="twitter:image" content="https://solusilokal.github.io/AquaLumina/logo-aqualumina.png" />
 
     <!-- Google Fonts: Plus Jakarta Sans -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />

@@ -2,6 +2,9 @@
 
 Website landing page interaktif & mobile-first untuk **AquaLumina** (Pusat Rekreasi Air & Kolam Renang Palangka Raya). Dilengkapi dengan showcase fasilitas kolam (Olympic Pool, Kids Waterpark, Jacuzzi Hangat), galeri foto interaktif dengan Lightbox, katalog harga tiket reguler & member, formulir reservasi tiket langsung ke WhatsApp Admin, integrasi Google Maps, FAQ akordeon interaktif, ulasan testimoni, serta fitur bagikan link (share modal).
 
+🌐 **Live Demo Website:** [https://solusilokal.github.io/AquaLumina/](https://solusilokal.github.io/AquaLumina/)  
+📦 **GitHub Repository:** [https://github.com/solusilokal/AquaLumina](https://github.com/solusilokal/AquaLumina)
+
 ---
 
 ## 🚀 Cara Menjalankan & Preview
