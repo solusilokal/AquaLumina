@@ -329,11 +329,15 @@ export default function App() {
           <div className="grid gap-3">
             {pageData.pricing.map((item, idx) => (
               <div key={idx} className="flex items-center justify-between p-4 bg-white border border-[#e2e8f0] rounded-2xl shadow-sm hover:border-[#38bdf8] hover:shadow-md transition-all">
-                <div>
+                <div className="flex-1 pr-3">
                   <h4 className="font-bold text-[#0f172a] text-sm mb-1">{item.name}</h4>
                   <span className="text-[11px] font-medium text-[#64748b] bg-[#f1f5f9] px-2 py-1 rounded-md">{item.type}</span>
                 </div>
-                <div className="font-extrabold text-[#0284c7] text-base min-w-[90px] text-right">{item.price}</div>
+                <div className="shrink-0 w-[110px] text-left">
+                  <span className="font-extrabold text-[#0284c7] text-base whitespace-nowrap block">
+                    {item.price}
+                  </span>
+                </div>
               </div>
             ))}
           </div>
