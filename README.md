@@ -34,6 +34,7 @@ Terdapat **2 cara praktis** untuk melihat preview website ini:
 kolam renang/
 ├── public/
 │   ├── logo-aqualumina.png                          # Logo profil resmi AquaLumina
+│   ├── gambarSEO.png                                # Gambar kartu preview SEO & WhatsApp
 │   ├── galeri-olympic-pool.webp                     # Foto kolam olympic pool
 │   ├── galeri-kids-waterpark.webp                   # Foto kids waterpark
 │   ├── galeri-jacuzzi-hangat.webp                   # Foto jacuzzi air hangat
@@ -53,6 +54,7 @@ kolam renang/
 ├── tailwind.config.js                               # Konfigurasi Tailwind CSS
 ├── postcss.config.js                                # Konfigurasi PostCSS
 ├── logo-aqualumina.png                              # File logo AquaLumina
+├── gambarSEO.png                                    # Gambar kartu preview SEO & WhatsApp
 ├── galeri-*.webp                                    # 4 Foto fasilitas galeri AquaLumina
 ├── Gemini_Generated_Image_7mr36z7mr36z7mr3.jpg      # Asset foto hero
 └── aqualumina_pool_app.tsx                          # Source code komponen asli
